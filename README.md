@@ -1,47 +1,49 @@
-# Portfólio de Cibersegurança | [Gabriel Soares Segatto]
+*Read this in other languages: [English](README.md), [Português](README-ptBR.md).*
 
-Bem-vindo ao meu portfólio de Segurança da Informação. Este repositório centraliza meus projetos práticos, laboratórios e documentações técnicas na área de Cibersegurança. 
+# Cybersecurity Portfolio | Gabriel Soares Segatto
 
-Com uma sólida base em Desenvolvimento de Software, possuo uma visão estrutural de aplicações e sistemas, o que me permite atuar de forma estratégica na identificação de vulnerabilidades, resposta a incidentes (DFIR) e defesa corporativa. Meu foco é integrar segurança e tecnologia para proteger ativos críticos de negócios.
+Welcome to my Information Security portfolio. This repository centralizes my practical projects, labs, and technical documentation in the Cybersecurity field.
 
----
-
-## Habilidades Técnicas
-
-*   **Fundamentos & Redes:** Arquitetura TCP/IP, Roteamento, Switching, Análise de Pacotes (Wireshark), Configuração de Firewalls.
-*   **Sistemas Operacionais:** Linux (Linha de comando, Administração), Windows Server.
-*   **Segurança Ofensiva & Defensiva:** Resposta a Incidentes (DFIR), Análise de Logs, Gestão de Identidade e Acesso (IAM).
-*   **Ferramentas & Tecnologias:** SIEM (Splunk/Chronicle), SQL, IDS/IPS.
-*   **Programação & Automação:** Python, Bash Scripting.
-*   **Frameworks & Conformidade:** NIST CSF, GDPR, PCI-DSS, SOC.
+With a solid background in Software Development, I have a structural understanding of applications and systems, which allows me to act strategically in vulnerability identification, incident response (DFIR), and corporate defense. My focus is on integrating security and technology to protect critical business assets.
 
 ---
 
-## Certificações
+## Technical Skills
 
-**Em Andamento / Preparação:**
+*   **Fundamentals & Networking:** TCP/IP Architecture, Routing, Switching, Packet Analysis (Wireshark), Firewall Configuration.
+*   **Operating Systems:** Linux (Command Line, Administration), Windows Server.
+*   **Offensive & Defensive Security:** Incident Response (DFIR), Log Analysis, Identity and Access Management (IAM).
+*   **Tools & Technologies:** SIEM (Splunk/Chronicle), SQL, IDS/IPS.
+*   **Programming & Automation:** Python, Bash Scripting.
+*   **Frameworks & Compliance:** NIST CSF, GDPR, PCI-DSS, SOC.
+
+---
+
+## Certifications
+
+**In Progress / Preparation:**
 *   CompTIA Security+
 *   Google Cybersecurity Professional Certificate
 
-**Concluídas:**
-*   Noções Básicas de Rede - Cisco Networking Academy
-*   
+**Completed:**
+*   Networking Basics - Cisco Networking Academy
+
 ---
 
-## 📂 Projetos e Laboratórios Práticos
+## Projects and Practical Labs
 
-Abaixo estão os projetos documentados que demonstram a aplicação prática dos meus conhecimentos em cenários corporativos reais ou simulados.
+Below are the documented projects that demonstrate the practical application of my knowledge in real or simulated corporate scenarios.
 
-| Projeto | Descrição | Habilidades e Ferramentas | Link |
+| Project | Description | Skills and Tools | Link |
 | :--- | :--- | :--- | :--- |
-| **Auditoria de Controles e Conformidade** | Avaliação da postura de segurança de uma empresa fictícia, identificando gaps de controle e sugerindo adequações regulatórias. | NIST CSF, PCI-DSS, GDPR, Avaliação de Risco | [Ver Projeto](./01-Auditoria-NIST-Conformidade/) |
+| **Controls and Compliance Audit** | Security posture assessment of a fictional company, identifying control gaps and recommending regulatory adjustments. | NIST CSF, PCI-DSS, GDPR, Risk Assessment | [View Project](./01-audit-NIST/) |
 
 ---
 
-## 🌐 Contato & Links
+## Contact & Links
 
-Sinta-se à vontade para explorar os diretórios acima e analisar as documentações técnicas. Para entrar em contato ou ver meus projetos de desenvolvimento:
+Feel free to explore the directories above and review the technical documentation. To get in touch or view my development projects:
 
 *   **LinkedIn:** [https://www.linkedin.com/in/gabrielssegatto/](https://www.linkedin.com/in/gabrielssegatto/)
-*   **Portfólio / Site Pessoal:** [https://www.gabrielssegatto.com.br/](https://www.gabrielssegatto.com.br/)
+*   **Portfolio / Personal Website:** [https://www.gabrielssegatto.com.br/](https://www.gabrielssegatto.com.br/)
 *   **E-mail:** [gabrielssegatto@gmail.com](mailto:gabrielssegatto@gmail.com)
