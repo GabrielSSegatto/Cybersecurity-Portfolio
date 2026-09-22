@@ -36,7 +36,7 @@ Below are the documented projects that demonstrate the practical application of 
 
 | Project | Description | Skills and Tools | Link |
 | :--- | :--- | :--- | :--- |
-| **Controls and Compliance Audit** | Security posture assessment of a fictional company, identifying control gaps and recommending regulatory adjustments. | NIST CSF, PCI-DSS, GDPR, Risk Assessment | [View Project](./01-audit-NIST/) |
+| **Controls and Compliance Audit** | Security posture assessment of a fictional company, identifying control gaps and recommending regulatory adjustments. | NIST CSF, PCI-DSS, GDPR... | [View Project](./01-audit-NIST/) |
 
 ---
 

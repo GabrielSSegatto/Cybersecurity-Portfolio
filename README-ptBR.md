@@ -36,7 +36,7 @@ Abaixo estão os projetos documentados que demonstram a aplicação prática dos
 
 | Projeto | Descrição | Habilidades e Ferramentas | Link |
 | :--- | :--- | :--- | :--- |
-| **Auditoria de Controles e Conformidade** | Avaliação da postura de segurança de uma empresa fictícia, identificando gaps de controle e sugerindo adequações regulatórias. | NIST CSF, PCI-DSS, GDPR, Avaliação de Risco | [Ver Projeto](./01-audit-NIST/) |
+| **Auditoria de Controles e Conformidade** | Avaliação da postura de segurança de uma empresa fictícia, identificando gaps de controle e sugerindo adequações regulatórias. | NIST CSF, PCI-DSS, GDPR... | [Ver Projeto](./01-audit-NIST/README-ptBR.md) |
 
 ---
 
