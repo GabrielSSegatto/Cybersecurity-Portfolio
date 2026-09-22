@@ -26,5 +26,5 @@ To mitigate these risks, a 5-step action plan was recommended to stakeholders:
 5. Install an Intrusion Detection System (IDS).
 
 ## Documentation
-* [View the Scenario Context (Botium Toys Risk Assessment)](./Scenario_Botium_Toys.pdf)
-* [View the full Audit and Compliance Report (Solution)](./Botium_Toys_Audit_Report.pdf)
+* [View the Scenario Context (Botium Toys Risk Assessment)](./Context_Botium_Toys.pdf)
+* [View the full Audit and Compliance Report (Solution)](./Audit_Report_Botium_Toys.pdf)

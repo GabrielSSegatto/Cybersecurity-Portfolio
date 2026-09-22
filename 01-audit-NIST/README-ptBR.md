@@ -26,5 +26,5 @@ Para mitigar esses riscos, um plano de ação de 5 etapas foi recomendado às pa
 5. Instalar um Sistema de Detecção de Intrusões (IDS).
 
 ## Documentação
-* [Visualizar o Contexto do Cenário (Avaliação de Risco da Botium Toys)](./Scenario_Botium_Toys.pdf)
-* [Visualizar o Relatório Completo de Auditoria e Conformidade (Minha Solução)](./Botium_Toys_Audit_Report.pdf)
+* [Visualizar o Contexto do Cenário (Avaliação de Risco da Botium Toys)](./Context_Botium_Toys.pdf)
+* [Visualizar o Relatório Completo de Auditoria e Conformidade (Minha Solução)](./Audit_Report_Botium_Toys.pdf)
