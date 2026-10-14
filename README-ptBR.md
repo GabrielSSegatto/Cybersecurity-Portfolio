@@ -4,8 +4,7 @@
 
 Bem-vindo ao meu portfólio de Segurança da Informação. Este repositório centraliza meus projetos práticos, laboratórios e documentações técnicas na área de Cibersegurança. 
 
-Com uma sólida base em Desenvolvimento de Software, possuo uma visão estrutural de aplicações e sistemas, o que me permite atuar de forma estratégica na identificação de vulnerabilidades, resposta a incidentes (DFIR) e defesa corporativa. Meu foco é integrar segurança e tecnologia para proteger ativos críticos de negócios.
-
+Sou estudante de Ciência da Computação com foco em Infraestrutura, Redes e Segurança da Informação. Este repositório reúne meus projetos práticos, laboratórios e documentação técnica na área. Minha base em desenvolvimento de software (Java, Python, C#) me ajuda a entender como aplicações e sistemas funcionam, e estou construindo experiência prática com Linux, Docker e frameworks de segurança.
 ---
 
 ## Habilidades Técnicas
