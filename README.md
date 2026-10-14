@@ -4,8 +4,7 @@
 
 Welcome to my Information Security portfolio. This repository centralizes my practical projects, labs, and technical documentation in the Cybersecurity field.
 
-With a solid background in Software Development, I have a structural understanding of applications and systems, which allows me to act strategically in vulnerability identification, incident response (DFIR), and corporate defense. My focus is on integrating security and technology to protect critical business assets.
-
+I'm a Computer Science student focused on Infrastructure, Networking and Information Security. This repository centralizes my practical projects, labs, and technical documentation in the field. My software development background (Java, Python, C#) helps me understand how applications and systems work, and I'm building hands-on experience with Linux, Docker, and security frameworks.
 ---
 
 ## Technical Skills
