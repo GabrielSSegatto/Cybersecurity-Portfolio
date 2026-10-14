@@ -9,12 +9,16 @@ Sou estudante de Ciência da Computação com foco em Infraestrutura, Redes e Se
 
 ## Habilidades Técnicas
 
-*   **Fundamentos & Redes:** Arquitetura TCP/IP, Roteamento, Switching, Análise de Pacotes (Wireshark), Configuração de Firewalls.
-*   **Sistemas Operacionais:** Linux (Linha de comando, Administração), Windows Server.
-*   **Segurança Ofensiva & Defensiva:** Resposta a Incidentes (DFIR), Análise de Logs, Gestão de Identidade e Acesso (IAM).
-*   **Ferramentas & Tecnologias:** SIEM (Splunk/Chronicle), SQL, IDS/IPS.
-*   **Programação & Automação:** Python, Bash Scripting.
-*   **Frameworks & Conformidade:** NIST CSF, GDPR, PCI-DSS, SOC.
+**Na prática:**
+- **Sistemas Operacionais:** Linux (Debian, Arch): linha de comando e administração básica
+- **Contêineres:** Docker (isolamento de serviços em homelab pessoal)
+- **Redes:** fundamentos de TCP/IP, roteamento e switching (Cisco Networking Academy)
+- **Frameworks e Conformidade:** NIST CSF, PCI-DSS, GDPR, SOC (estudo de caso simulado)
+- **Gestão de Acessos:** IAM e Menor Privilégio (aplicados no estudo de caso)
+- **Programação e Dados:** Python, SQL
+
+**Em estudo (Google Cybersecurity Certificate / Security+):**
+- Análise de pacotes (Wireshark), SIEM, IDS/IPS, resposta a incidentes, Bash, Windows Server
 
 ---
 
