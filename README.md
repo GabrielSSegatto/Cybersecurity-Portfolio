@@ -8,13 +8,18 @@ I'm a Computer Science student focused on Infrastructure, Networking and Informa
 ---
 
 ## Technical Skills
+## Technical Skills
 
-*   **Fundamentals & Networking:** TCP/IP Architecture, Routing, Switching, Packet Analysis (Wireshark), Firewall Configuration.
-*   **Operating Systems:** Linux (Command Line, Administration), Windows Server.
-*   **Offensive & Defensive Security:** Incident Response (DFIR), Log Analysis, Identity and Access Management (IAM).
-*   **Tools & Technologies:** SIEM (Splunk/Chronicle), SQL, IDS/IPS.
-*   **Programming & Automation:** Python, Bash Scripting.
-*   **Frameworks & Compliance:** NIST CSF, GDPR, PCI-DSS, SOC.
+**Hands-on:**
+- **Operating Systems:** Linux (Debian, Arch): command line and basic administration
+- **Containers:** Docker (service isolation on a personal homelab)
+- **Networking:** TCP/IP fundamentals, routing and switching basics (Cisco Networking Academy)
+- **Frameworks & Compliance:** NIST CSF, PCI-DSS, GDPR, SOC (simulated case study)
+- **Access Management:** IAM and Least Privilege (applied in the case study)
+- **Programming & Data:** Python, SQL
+
+**Currently studying (Google Cybersecurity Certificate / Security+):**
+- Packet analysis (Wireshark), SIEM, IDS/IPS, incident response, Bash scripting, Windows Server
 
 ---
 
