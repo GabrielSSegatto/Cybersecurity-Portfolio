@@ -8,7 +8,6 @@ I'm a Computer Science student focused on Infrastructure, Networking and Informa
 ---
 
 ## Technical Skills
-## Technical Skills
 
 **Hands-on:**
 - **Operating Systems:** Linux (Debian, Arch): command line and basic administration
